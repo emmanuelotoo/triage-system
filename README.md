@@ -2,8 +2,9 @@
 
 ## Names and Id's
 
-Emmanuel Otoo - 22146178
-Senyo Senaya - 22020018
+*  Emmanuel Otoo - 22146178
+*  Senyo Senaya - 22020018
+*  Philipa Araba Sarah Yeboah - 22203063
 
 
 ## Overview
