@@ -3,6 +3,7 @@
 ## Names and Id's
 
 Emmanuel Otoo - 22146178
+Senyo Senaya - 22020018
 
 
 ## Overview
