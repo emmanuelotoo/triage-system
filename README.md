@@ -7,6 +7,7 @@
 *  Philipa Araba Sarah Yeboah - 22203063
 *  Ivan Kwamena Johnson - 22066844
 *  Kenneth Nii-Okpey Mensah - 22125458
+*  Derrick Debrah - 22067412
 
 ## Overview
 
