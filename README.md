@@ -8,6 +8,7 @@
 *  Ivan Kwamena Johnson - 22066844
 *  Kenneth Nii-Okpey Mensah - 22125458
 *  Derrick Debrah - 22067412
+*  Elsie Edinam Atsu - 22036908
 
 ## Overview
 
