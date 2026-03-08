@@ -2,8 +2,13 @@
 
 ## Names and Id's
 
-Emmanuel Otoo - 22146178
-
+*  Emmanuel Otoo - 22146178 - Programmer
+*  Senyo Senaya - 22020018 - Programmer
+*  Philipa Araba Sarah Yeboah - 22203063 - Project Manager
+*  Ivan Kwamena Johnson - 22066844 - Knowledge Engineer
+*  Kenneth Nii-Okpey Mensah - 22125458 - Programmer
+*  Derrick Debrah - 22067412 - Programmer
+*  Elsie Edinam Atsu - 22036908 - Knowledge Engineer
 
 ## Overview
 
